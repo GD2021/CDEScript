@@ -109,6 +109,22 @@
     "fileHash": "sha256-84871bf2492b13fd287128542ca0097651ab166d220320a684857a1a1c3a8cb1"
   },
   {
+    "url": "https://raw.githubusercontent.com/Reflex755/ReflexRepo/builds/DiviCast.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "DiviCast",
+    "internalName": "DiviCast",
+    "authors": ["Reflex1337", "ErrorCode26"],
+    "description": "Watch movies and TV series from DiviCast",
+    "fileSize": 36866,
+    "repositoryUrl": "https://github.com/Reflex755/ReflexRepo",
+    "language": "en",
+    "tvTypes": ["Movie", "TvSeries"],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=divicast.study&sz=64",
+    "apiVersion": 1,
+    "fileHash": "sha256-260918fb7e4353e0f323ec0b92cec5436a80d136a12d055ad04b07e8db5540e7"
+  },
+  {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziAsya.cs3",
     "status": 1,
     "version": 27,

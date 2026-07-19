@@ -33,6 +33,7 @@ https://raw.githubusercontent.com/GD2021/CDEScript/refs/heads/main/repo.json
 | **Anineko** | Anime, AnimeMovie, OVA | en | [phisher98](https://github.com/phisher98/cloudstream-extensions-phisher) |
 | **Animexin** | Anime, AnimeMovie, Cartoon | en | [phisher98](https://github.com/phisher98/cloudstream-extensions-phisher) |
 | **Cinefreak** | Movie, TvSeries, Anime | bn | [phisher98](https://github.com/phisher98/cloudstream-extensions-phisher) |
+| **DiviCast** | Movie, TvSeries | en | [Reflex755/ReflexRepo](https://github.com/Reflex755/ReflexRepo) |
 | **Donghuastream** | Anime | zh | [phisher98](https://github.com/phisher98/cloudstream-extensions-phisher) |
 | **Goojara** | Movie, TvSeries | en | [phisher98](https://github.com/phisher98/cloudstream-extensions-phisher) |
 | **IStreamFlare** | AsianDrama, TvSeries, Anime, Movie, Cartoon, AnimeMovie | hi | [phisher98](https://github.com/phisher98/cloudstream-extensions-phisher) |

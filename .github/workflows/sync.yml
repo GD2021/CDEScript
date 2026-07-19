@@ -32,6 +32,9 @@ jobs:
               "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/plugins.json": [
                   "AllMovieLandProvider", "Cinefreak", "KisskhProvider", "OneTouchTV",
                   "AniDb", "Anineko", "Animexin", "Donghuastream", "Goojara", "IStreamFlare"
+              ],
+              "https://raw.githubusercontent.com/Reflex755/ReflexRepo/builds/plugins.json": [
+                  "DiviCast"
               ]
           }
 
