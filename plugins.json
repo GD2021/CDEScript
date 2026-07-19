@@ -1,6 +1,6 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/GD2021/CDEScript/refs/heads/builds/Wcoflix.cs3",
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Wcoflix.cs3",
     "status": 1,
     "version": 9,
     "name": "Wcoflix",
@@ -15,7 +15,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/GD2021/CDEScript/refs/heads/builds/Movix.cs3",
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Movix.cs3",
     "status": 1,
     "version": 26,
     "name": "Movix",
@@ -30,7 +30,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/GD2021/CDEScript/refs/heads/builds/AnimeWorld.cs3",
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/AnimeWorld.cs3",
     "status": 1,
     "version": 5,
     "name": "AnimeWorld",
@@ -45,64 +45,68 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/GD2021/CDEScript/refs/heads/builds/JKAnimeProvider.cs3",
+    "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/JKAnimeProvider.cs3",
     "status": 1,
     "version": 9,
     "name": "JKAnime",
     "internalName": "JKAnimeProvider",
     "authors": ["Stormunblessed", "GD2021"],
     "description": "JKAnime - Watch anime online in high quality for free.",
-    "fileSize": 0,
+    "fileSize": 35344,
     "repositoryUrl": "https://github.com/redblacker8/storm-ext",
-    "language": "es",
+    "language": "mx",
     "tvTypes": ["Anime", "OVA", "AnimeMovie"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=jkanime.net&sz=%size%",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileHash": "sha256-d6afc23287631e03d31928c9e70c8a8d7ee43eae6610a7b5ec8836770cc15e68"
   },
   {
-    "url": "https://raw.githubusercontent.com/GD2021/CDEScript/refs/heads/builds/DoramasFlixProvider.cs3",
+    "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/DoramasFlixProvider.cs3",
     "status": 1,
     "version": 8,
     "name": "Doramasflix",
     "internalName": "DoramasFlixProvider",
     "authors": ["Stormunblessed", "GD2021"],
     "description": "Doramasflix - Watch Asian dramas online in high quality.",
-    "fileSize": 0,
+    "fileSize": 40365,
     "repositoryUrl": "https://github.com/redblacker8/storm-ext",
     "language": "mx",
     "tvTypes": ["AsianDrama"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=doramasflix.co&sz=%size%",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileHash": "sha256-506cb4d2018e1c86fc533e26c8a5437c08e0276801b6b31f6635a08b31270792"
   },
   {
-    "url": "https://raw.githubusercontent.com/GD2021/CDEScript/refs/heads/builds/Pelisplus4KProvider.cs3",
+    "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/Pelisplus4KProvider.cs3",
     "status": 1,
     "version": 12,
     "name": "Pelisplus4K",
     "internalName": "Pelisplus4KProvider",
     "authors": ["Stormunblessed", "GD2021"],
     "description": "Pelisplus4K - Watch movies, series, anime and Asian dramas in 4K quality.",
-    "fileSize": 0,
+    "fileSize": 43411,
     "repositoryUrl": "https://github.com/redblacker8/storm-ext",
     "language": "mx",
     "tvTypes": ["Movie", "TvSeries", "AsianDrama", "Anime"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplus.to&sz=%size%",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileHash": "sha256-d75ebe1c744f0b63207142e69e85301b19e0cd1f0f8a66351d61e41f4a8459b5"
   },
   {
-    "url": "https://raw.githubusercontent.com/GD2021/CDEScript/refs/heads/builds/CinecalidadProvider.cs3",
+    "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/CinecalidadProvider.cs3",
     "status": 1,
     "version": 7,
     "name": "Cinecalidad",
     "internalName": "CinecalidadProvider",
     "authors": ["Stormunblessed", "GD2021"],
     "description": "Cinecalidad - Watch movies and series in HD quality.",
-    "fileSize": 0,
+    "fileSize": 17112,
     "repositoryUrl": "https://github.com/redblacker8/storm-ext",
     "language": "mx",
     "tvTypes": ["TvSeries", "Movie"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=cinecalidad.lol&sz=%size%",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileHash": "sha256-84871bf2492b13fd287128542ca0097651ab166d220320a684857a1a1c3a8cb1"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor-builds/refs/heads/main/DiziAsya.cs3",
