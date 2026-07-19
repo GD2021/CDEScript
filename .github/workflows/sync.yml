@@ -28,6 +28,10 @@ jobs:
               ],
               "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/plugins.json": [
                   "DiziAsya", "DiziKorea", "SineWix", "AsyaAnimeleri", "SetFilmIzle", "FilmEkseni", "KraptorPlus"
+              ],
+              "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/plugins.json": [
+                  "AllMovieLandProvider", "Cinefreak", "KisskhProvider", "OneTouchTV",
+                  "AniDb", "Anineko", "Animexin", "Donghuastream", "Goojara", "IStreamFlare"
               ]
           }
 

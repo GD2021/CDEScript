@@ -28,3 +28,13 @@ https://raw.githubusercontent.com/GD2021/CDEScript/refs/heads/main/repo.json
 | **SetFilmIzle** | Movie | tr | [Kraptor123/cs-kraptor](https://github.com/Kraptor123/cs-kraptor) |
 | **FilmEkseni** | Movie | tr | [Kraptor123/cs-kraptor](https://github.com/Kraptor123/cs-kraptor) |
 | **KraptorPlus** | TvSeries, Movie, Anime, Cartoon, AsianDrama, AnimeMovie | tr | [Kraptor123/cs-kraptor](https://github.com/Kraptor123/cs-kraptor) |
+| **AllMovieLandProvider** | Movie, TvSeries, Cartoon | hi | [phisher98](https://github.com/phisher98/cloudstream-extensions-phisher) |
+| **AniDb** | Anime, AnimeMovie, OVA | en | [phisher98](https://github.com/phisher98/cloudstream-extensions-phisher) |
+| **Anineko** | Anime, AnimeMovie, OVA | en | [phisher98](https://github.com/phisher98/cloudstream-extensions-phisher) |
+| **Animexin** | Anime, AnimeMovie, Cartoon | en | [phisher98](https://github.com/phisher98/cloudstream-extensions-phisher) |
+| **Cinefreak** | Movie, TvSeries, Anime | bn | [phisher98](https://github.com/phisher98/cloudstream-extensions-phisher) |
+| **Donghuastream** | Anime | zh | [phisher98](https://github.com/phisher98/cloudstream-extensions-phisher) |
+| **Goojara** | Movie, TvSeries | en | [phisher98](https://github.com/phisher98/cloudstream-extensions-phisher) |
+| **IStreamFlare** | AsianDrama, TvSeries, Anime, Movie, Cartoon, AnimeMovie | hi | [phisher98](https://github.com/phisher98/cloudstream-extensions-phisher) |
+| **KisskhProvider** | AsianDrama, TvSeries, Anime, Movie | en | [phisher98](https://github.com/phisher98/cloudstream-extensions-phisher) |
+| **OneTouchTV** | AsianDrama, TvSeries | en | [phisher98](https://github.com/phisher98/cloudstream-extensions-phisher) |
