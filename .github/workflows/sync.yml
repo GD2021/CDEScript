@@ -1,0 +1,84 @@
+name: Sync plugins from upstream
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Sync plugins.json
+        run: |
+          python3 << 'PYEOF'
+          import json, urllib.request, os
+
+          SOURCES = {
+              "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/plugins.json": [
+                  "Wcoflix", "Movix", "AnimeWorld"
+              ],
+              "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/plugins.json": [
+                  "JKAnimeProvider", "DoramasFlixProvider", "Pelisplus4KProvider", "CinecalidadProvider"
+              ],
+              "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/plugins.json": [
+                  "DiziAsya", "DiziKorea", "SineWix", "AsyaAnimeleri", "SetFilmIzle", "FilmEkseni", "KraptorPlus"
+              ]
+          }
+
+          # Load existing plugins.json to preserve custom descriptions
+          existing = {}
+          try:
+              with open("plugins.json") as f:
+                  for p in json.load(f):
+                      existing[p["internalName"]] = p
+          except:
+              pass
+
+          wanted = set()
+          for names in SOURCES.values():
+              wanted.update(names)
+
+          merged = []
+          for url, names in SOURCES.items():
+              try:
+                  req = urllib.request.Request(url, headers={"User-Agent": "CDEScript-sync/1.0"})
+                  with urllib.request.urlopen(req, timeout=30) as resp:
+                      data = json.load(resp)
+              except Exception as e:
+                  print(f"  FAIL {url}: {e}")
+                  continue
+              for entry in data:
+                  name = entry.get("internalName")
+                  if name in names:
+                      # Preserve custom description if source has none
+                      old = existing.get(name)
+                      if old and not entry.get("description") and old.get("description"):
+                          entry["description"] = old["description"]
+                      merged.append(entry)
+                      print(f"  OK {name} v{entry.get('version','?')}")
+
+          merged.sort(key=lambda p: (p.get("internalName", "")))
+
+          with open("plugins.json", "w", encoding="utf-8") as f:
+              json.dump(merged, f, indent=2, ensure_ascii=False)
+              f.write("\n")
+
+          print(f"\nSynced {len(merged)}/{len(wanted)} plugins")
+          missing = wanted - {p["internalName"] for p in merged}
+          if missing:
+              print(f"Missing from upstream: {missing}")
+          PYEOF
+
+      - name: Commit if changed
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add plugins.json
+          git diff --staged --quiet || git commit -m "Auto-sync plugins from upstream sources"
+          git push
