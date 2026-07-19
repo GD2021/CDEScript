@@ -1,33 +1,50 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Wcoflix.cs3",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AllMovieLandProvider.cs3",
     "status": 1,
-    "version": 9,
-    "name": "Wcoflix",
-    "internalName": "Wcoflix",
-    "authors": ["ByAyzen", "kraptor"],
-    "description": "We have wide range of cartoons and anime that you can watch in HD and High quality for free.",
-    "fileSize": 0,
-    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-    "language": "en",
-    "tvTypes": ["Anime", "Cartoon"],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.wcoflix.tv/&size=128",
-    "apiVersion": 1
+    "version": 21,
+    "name": "AllMovieLandProvider",
+    "internalName": "AllMovieLandProvider",
+    "authors": [
+      "Phisher98"
+    ],
+    "description": "Indian MultiLanguage Provider (Mostly Hindi)",
+    "fileSize": 36787,
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "language": "hi",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Cartoon"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/AllMovieLandProvider/icon.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-8e9e380ed609587abbdadf4902d800ea0f5e77744da48c4b0f2ed2b1932cdd95",
+    "jarFileSize": 155786,
+    "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AllMovieLandProvider.jar",
+    "jarHash": "sha256-0fb475995dd81c60307995c28735877789ecd5395fc1e3c21f718d241a29e480"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Movix.cs3",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AniDb.cs3",
     "status": 1,
-    "version": 26,
-    "name": "Movix",
-    "internalName": "Movix",
-    "authors": ["ByAyzen"],
-    "description": "Explorez les films, séries, collections, alertes et recommandations Movix.",
-    "fileSize": 0,
-    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-    "language": "fr",
-    "tvTypes": ["Movie", "TvSeries", "Anime"],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://movix.rodeo/&size=128",
-    "apiVersion": 1
+    "version": 11,
+    "name": "AniDb",
+    "internalName": "AniDb",
+    "authors": [
+      "Phisher98"
+    ],
+    "description": "Animes",
+    "fileSize": 56557,
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "language": "en",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/anidb.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-edeb8b199f2e7aaa723696499a87d3c1d6e03d7456e438f8c293d1925ded9015"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/AnimeWorld.cs3",
@@ -35,94 +52,157 @@
     "version": 5,
     "name": "AnimeWorld",
     "internalName": "AnimeWorld",
-    "authors": ["ByAyzen"],
+    "authors": [
+      "ByAyzen"
+    ],
     "description": "Scopri il nostro Archivio di Anime in Streaming Sub ITA e ITA. Guarda in Streaming o effettua il Download di migliaia di serie animate sempre aggiornate e in alta qualità, disponibili su PC, console, tablet, smartphone ed altri dispositivi.",
-    "fileSize": 0,
+    "fileSize": 14804,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "it",
-    "tvTypes": ["Anime"],
+    "tvTypes": [
+      "Anime"
+    ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.animeworld.ac&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileHash": "sha256-a080004237b1680412524550a751d27421252026dbdcc8553d866c26b5373dd0"
   },
   {
-    "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/JKAnimeProvider.cs3",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animexin.cs3",
     "status": 1,
-    "version": 9,
-    "name": "JKAnime",
-    "internalName": "JKAnimeProvider",
-    "authors": ["Stormunblessed"],
-    "description": "JKAnime - Watch anime online in high quality for free.",
-    "fileSize": 35344,
-    "repositoryUrl": "https://github.com/redblacker8/storm-ext",
-    "language": "mx",
-    "tvTypes": ["Anime", "OVA", "AnimeMovie"],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=jkanime.net&sz=%size%",
+    "version": 11,
+    "name": "Animexin",
+    "internalName": "Animexin",
+    "authors": [
+      "Phisher98"
+    ],
+    "description": "Anime and Movies",
+    "fileSize": 14921,
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "language": "en",
+    "tvTypes": [
+      "AnimeMovie",
+      "Anime",
+      "Cartoon"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=animexin.dev&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-d6afc23287631e03d31928c9e70c8a8d7ee43eae6610a7b5ec8836770cc15e68"
+    "fileHash": "sha256-3b7683c21ab6b44941f30452e2293cddd44d33849aac8c06bdc056aef86a00dd",
+    "jarFileSize": 60362,
+    "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animexin.jar",
+    "jarHash": "sha256-fb8b4be12e1181403ef0cabd5433b87e390595906ce9c90553b70705f6e7c648"
   },
   {
-    "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/DoramasFlixProvider.cs3",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Anineko.cs3",
     "status": 1,
-    "version": 8,
-    "name": "Doramasflix",
-    "internalName": "DoramasFlixProvider",
-    "authors": ["Stormunblessed"],
-    "description": "Doramasflix - Watch Asian dramas online in high quality.",
-    "fileSize": 40365,
-    "repositoryUrl": "https://github.com/redblacker8/storm-ext",
-    "language": "mx",
-    "tvTypes": ["AsianDrama"],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=doramasflix.co&sz=%size%",
+    "version": 3,
+    "name": "Anineko",
+    "internalName": "Anineko",
+    "authors": [
+      "Phisher98"
+    ],
+    "description": "Anime from Anineko",
+    "fileSize": 31551,
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "language": "en",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Anineko.png",
     "apiVersion": 1,
-    "fileHash": "sha256-506cb4d2018e1c86fc533e26c8a5437c08e0276801b6b31f6635a08b31270792"
+    "fileHash": "sha256-7f3578983d71fe69243f71b23ef255b6472fe5913cdbc6f27bfa757391290674",
+    "jarFileSize": 125633,
+    "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Anineko.jar",
+    "jarHash": "sha256-ba729b1183344dc0f0c6717d0a92b5ba0231fa609b9b2ae71a0d83038ee803a9"
   },
   {
-    "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/Pelisplus4KProvider.cs3",
+    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaAnimeleri.cs3",
     "status": 1,
-    "version": 12,
-    "name": "Pelisplus4K",
-    "internalName": "Pelisplus4KProvider",
-    "authors": ["Stormunblessed"],
-    "description": "Pelisplus4K - Watch movies, series, anime and Asian dramas in 4K quality.",
-    "fileSize": 43411,
-    "repositoryUrl": "https://github.com/redblacker8/storm-ext",
-    "language": "mx",
-    "tvTypes": ["Movie", "TvSeries", "AsianDrama", "Anime"],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplus.to&sz=%size%",
+    "version": 24,
+    "name": "AsyaAnimeleri",
+    "internalName": "AsyaAnimeleri",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "Asya Animeleri – Anime izle | Donghua izle | Animeler | Donghuantr | Türkanime | Donghua Anime, Türkçe Altyazılı Anime izle , Türkçe Anime, animeizle.",
+    "fileSize": 33744,
+    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Anime"
+    ],
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaanimeleri.top/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-d75ebe1c744f0b63207142e69e85301b19e0cd1f0f8a66351d61e41f4a8459b5"
+    "fileHash": "sha256-8c8413367c14e21b8b2efa33ba2df4e4b9ef57b447a753f8fc930c1053153a7e"
   },
   {
     "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/CinecalidadProvider.cs3",
     "status": 1,
     "version": 7,
-    "name": "Cinecalidad",
+    "name": "CinecalidadProvider",
     "internalName": "CinecalidadProvider",
-    "authors": ["Stormunblessed"],
-    "description": "Cinecalidad - Watch movies and series in HD quality.",
+    "authors": [
+      "Stormunblessed"
+    ],
     "fileSize": 17112,
     "repositoryUrl": "https://github.com/redblacker8/storm-ext",
     "language": "mx",
-    "tvTypes": ["TvSeries", "Movie"],
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=cinecalidad.lol&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-84871bf2492b13fd287128542ca0097651ab166d220320a684857a1a1c3a8cb1"
+    "fileHash": "sha256-84871bf2492b13fd287128542ca0097651ab166d220320a684857a1a1c3a8cb1",
+    "description": "Cinecalidad - Watch movies and series in HD quality."
   },
   {
-    "url": "https://raw.githubusercontent.com/Reflex755/ReflexRepo/builds/DiviCast.cs3",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinefreak.cs3",
     "status": 1,
-    "version": 1,
-    "name": "DiviCast",
-    "internalName": "DiviCast",
-    "authors": ["Reflex1337", "ErrorCode26"],
-    "description": "Watch movies and TV series from DiviCast",
-    "fileSize": 36866,
-    "repositoryUrl": "https://github.com/Reflex755/ReflexRepo",
-    "language": "en",
-    "tvTypes": ["Movie", "TvSeries"],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=divicast.study&sz=64",
+    "version": 9,
+    "name": "Cinefreak",
+    "internalName": "Cinefreak",
+    "authors": [
+      "Phisher98"
+    ],
+    "description": "Bangla/Hindi Movies/Series",
+    "fileSize": 68268,
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "language": "bn",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/cinefreak.png",
     "apiVersion": 1,
-    "fileHash": "sha256-260918fb7e4353e0f323ec0b92cec5436a80d136a12d055ad04b07e8db5540e7"
+    "fileHash": "sha256-8abb7001262d6f020e462491dff68f516f3fd0bce1b8c55a4e6863f05b7ae8a6",
+    "jarFileSize": 312910,
+    "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinefreak.jar",
+    "jarHash": "sha256-1a8d0ee06c06ded0d37f8c1b42a139c19110eb8b5bba593aac5fa936007334ef"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=divicast.study&sz=64",
+    "fileHash": "sha256-260918fb7e4353e0f323ec0b92cec5436a80d136a12d055ad04b07e8db5540e7",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Reflex755/ReflexRepo",
+    "fileSize": 36866,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "Reflex1337",
+      "ErrorCode26"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "DiviCast",
+    "description": "Watch movies and TV series from DiviCast",
+    "url": "https://raw.githubusercontent.com/Reflex755/ReflexRepo/builds/DiviCast.cs3",
+    "name": "DiviCast"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziAsya.cs3",
@@ -130,12 +210,16 @@
     "version": 27,
     "name": "DiziAsya",
     "internalName": "DiziAsya",
-    "authors": ["kerimmkirac"],
+    "authors": [
+      "kerimmkirac"
+    ],
     "description": "Asya'nın en iyi Çin ve Kore dizilerini ve filmlerini keşfedin! Romantizm, dram, aksiyon... Diziasya ile Asya kültürüne hemen adım atın!",
     "fileSize": 39796,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
-    "tvTypes": ["AsianDrama"],
+    "tvTypes": [
+      "AsianDrama"
+    ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.diziasya.com&size=32",
     "apiVersion": 1,
     "fileHash": "sha256-4368a98b141603d9db6f80cdf3f68f9a6b365b23a9c733d6fbed55f9ef43993a"
@@ -146,175 +230,21 @@
     "version": 35,
     "name": "DiziKorea",
     "internalName": "DiziKorea",
-    "authors": ["Kerimmkirac", "kraptor", "ByAyzen"],
+    "authors": [
+      "Kerimmkirac",
+      "kraptor",
+      "ByAyzen"
+    ],
     "description": "Kore Dizileri izle, Dizikorea size en yeni ve güncel romantik komedi, okul tarzında ki Kore Asya Dizilerini Full HD Türkçe Altyazılı izleme şansı verir.",
     "fileSize": 74416,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
-    "tvTypes": ["AsianDrama"],
+    "tvTypes": [
+      "AsianDrama"
+    ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://dizikorea.pw&size=16",
     "apiVersion": 1,
     "fileHash": "sha256-2e28cc85ae623c6f78b5769a0dff96d20cf9d92d3d1b31080a549ac0b226c631"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SineWix.cs3",
-    "status": 1,
-    "version": 33,
-    "name": "SineWix",
-    "internalName": "SineWix",
-    "authors": ["kraptor", "ByAyzen"],
-    "description": "SineWix - Ücretsiz Film, Dizi ve Anime İzleme Uygulaması 5000+ HD İçerik, Türkçe Altyazılı, Otaku Dostu Anime Arşivi, Premium Kalite Yabancı Yapımlar",
-    "fileSize": 77299,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "language": "tr",
-    "tvTypes": ["Movie", "TvSeries", "Anime", "AsianDrama", "Cartoon"],
-    "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480",
-    "apiVersion": 1,
-    "fileHash": "sha256-8155d0c87480fd1c28da228acea89a6c79c13a546a8df49cf5063a54f7922772"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaAnimeleri.cs3",
-    "status": 1,
-    "version": 24,
-    "name": "AsyaAnimeleri",
-    "internalName": "AsyaAnimeleri",
-    "authors": ["kraptor"],
-    "description": "Asya Animeleri – Anime izle | Donghua izle | Animeler | Donghuantr | Türkanime | Donghua Anime, Türkçe Altyazılı Anime izle , Türkçe Anime, animeizle.",
-    "fileSize": 33744,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "language": "tr",
-    "tvTypes": ["Anime"],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaanimeleri.top/&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-8c8413367c14e21b8b2efa33ba2df4e4b9ef57b447a753f8fc930c1053153a7e"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SetFilmIzle.cs3",
-    "status": 1,
-    "version": 41,
-    "name": "SetFilmIzle",
-    "internalName": "SetFilmIzle",
-    "authors": ["kraptor", "kerimmkirac", "ByAyzen"],
-    "description": "Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
-    "fileSize": 72393,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "language": "tr",
-    "tvTypes": ["Movie"],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.setfilmizle.uk/&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-e0eebc6cc0c519ebacd1320e8a54f8127df8e802e7380052c1b43bc5d58d7396"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmEkseni.cs3",
-    "status": 1,
-    "version": 50,
-    "name": "FilmEkseni",
-    "internalName": "FilmEkseni",
-    "authors": ["kraptor", "ByAyzen"],
-    "description": "Film Ekseni ⚡ Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde türkçe dublaj ve altyazı seçenekleriyle 1080p olarak izleyebileceğiniz adresiniz.",
-    "fileSize": 71994,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "language": "tr",
-    "tvTypes": ["Movie"],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmekseni.net/&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-b14d8915a8d72bd25590037be0f1a74946ec755995ed3896a452f3b547a1b3f2"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KraptorPlus.cs3",
-    "status": 1,
-    "version": 82,
-    "name": "KraptorPlus",
-    "internalName": "KraptorPlus",
-    "authors": ["kraptor", "Phisher98", "ByAyzen", "Megix"],
-    "description": "Bir çok sitenin birleştiği toplama eklenti.",
-    "fileSize": 590995,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "language": "tr",
-    "tvTypes": ["TvSeries", "Movie", "Anime", "Cartoon", "AsianDrama", "AnimeMovie"],
-    "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-eea42de583b60237c84b7a0b08e0f50a39e066eedc7d1c1ada29f1bcf54956bf"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AllMovieLandProvider.cs3",
-    "status": 1,
-    "version": 21,
-    "name": "AllMovieLandProvider",
-    "internalName": "AllMovieLandProvider",
-    "authors": ["Phisher98"],
-    "description": "Indian MultiLanguage Provider (Mostly Hindi)",
-    "fileSize": 36787,
-    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "language": "hi",
-    "tvTypes": ["Movie", "TvSeries", "Cartoon"],
-    "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/AllMovieLandProvider/icon.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-8e9e380ed609587abbdadf4902d800ea0f5e77744da48c4b0f2ed2b1932cdd95"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AniDb.cs3",
-    "status": 1,
-    "version": 11,
-    "name": "AniDb",
-    "internalName": "AniDb",
-    "authors": ["Phisher98"],
-    "description": "Animes",
-    "fileSize": 56557,
-    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "language": "en",
-    "tvTypes": ["Anime", "AnimeMovie", "OVA"],
-    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/anidb.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-edeb8b199f2e7aaa723696499a87d3c1d6e03d7456e438f8c293d1925ded9015"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Anineko.cs3",
-    "status": 1,
-    "version": 3,
-    "name": "Anineko",
-    "internalName": "Anineko",
-    "authors": ["Phisher98"],
-    "description": "Anime from Anineko",
-    "fileSize": 31551,
-    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "language": "en",
-    "tvTypes": ["Anime", "AnimeMovie", "OVA"],
-    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Anineko.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-7f3578983d71fe69243f71b23ef255b6472fe5913cdbc6f27bfa757391290674"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animexin.cs3",
-    "status": 1,
-    "version": 11,
-    "name": "Animexin",
-    "internalName": "Animexin",
-    "authors": ["Phisher98"],
-    "description": "Anime and Movies",
-    "fileSize": 14921,
-    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "language": "en",
-    "tvTypes": ["AnimeMovie", "Anime", "Cartoon"],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=animexin.dev&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-3b7683c21ab6b44941f30452e2293cddd44d33849aac8c06bdc056aef86a00dd"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinefreak.cs3",
-    "status": 1,
-    "version": 9,
-    "name": "Cinefreak",
-    "internalName": "Cinefreak",
-    "authors": ["Phisher98"],
-    "description": "Bangla/Hindi Movies/Series",
-    "fileSize": 68268,
-    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "language": "bn",
-    "tvTypes": ["Movie", "TvSeries", "Anime"],
-    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/cinefreak.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-8abb7001262d6f020e462491dff68f516f3fd0bce1b8c55a4e6863f05b7ae8a6"
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Donghuastream.cs3",
@@ -322,15 +252,63 @@
     "version": 19,
     "name": "Donghuastream",
     "internalName": "Donghuastream",
-    "authors": ["Phisher98"],
+    "authors": [
+      "Phisher98"
+    ],
     "description": "Contains SeaTV (Chinese)",
     "fileSize": 37897,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "zh",
-    "tvTypes": ["Anime"],
+    "tvTypes": [
+      "Anime"
+    ],
     "iconUrl": "https://raw.githubusercontent.com/Kohi-den/extensions-source/927f9c68fd64ce52f6212ae633d0f0585eca3545/src/en/donghuastream/res/mipmap-xxxhdpi/ic_launcher.png",
     "apiVersion": 1,
-    "fileHash": "sha256-53f6a3a8816348c72f9234f89f0d734cd20a750ddf139a092dd7fc86531cc3a9"
+    "fileHash": "sha256-53f6a3a8816348c72f9234f89f0d734cd20a750ddf139a092dd7fc86531cc3a9",
+    "jarFileSize": 191993,
+    "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Donghuastream.jar",
+    "jarHash": "sha256-ead349bc3fa2ef3ed63b2e344fc7c378ae889f394e98a4f5ab9cf088fe3e38bb"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/DoramasFlixProvider.cs3",
+    "status": 1,
+    "version": 8,
+    "name": "DoramasFlixProvider",
+    "internalName": "DoramasFlixProvider",
+    "authors": [
+      "Stormunblessed"
+    ],
+    "fileSize": 40365,
+    "repositoryUrl": "https://github.com/redblacker8/storm-ext",
+    "language": "mx",
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=doramasflix.co&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-506cb4d2018e1c86fc533e26c8a5437c08e0276801b6b31f6635a08b31270792",
+    "description": "Doramasflix - Watch Asian dramas online in high quality."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmEkseni.cs3",
+    "status": 1,
+    "version": 50,
+    "name": "FilmEkseni",
+    "internalName": "FilmEkseni",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "description": "Film Ekseni ⚡ Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde türkçe dublaj ve altyazı seçenekleriyle 1080p olarak izleyebileceğiniz adresiniz.",
+    "fileSize": 71994,
+    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmekseni.net/&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-b14d8915a8d72bd25590037be0f1a74946ec755995ed3896a452f3b547a1b3f2"
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Goojara.cs3",
@@ -338,15 +316,23 @@
     "version": 3,
     "name": "Goojara",
     "internalName": "Goojara",
-    "authors": ["Phisher98"],
+    "authors": [
+      "Phisher98"
+    ],
     "description": "Movies and Series (Mostly 720p)",
     "fileSize": 43828,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
-    "tvTypes": ["Movie", "TvSeries"],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=goojara.to/&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-75ed54f55902733281503e2a38aa7dbe1718a295111200c7be35631de1e629dd"
+    "fileHash": "sha256-75ed54f55902733281503e2a38aa7dbe1718a295111200c7be35631de1e629dd",
+    "jarFileSize": 175759,
+    "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Goojara.jar",
+    "jarHash": "sha256-8e093c4ce953058f12ab0e80239d2b661cf7744b4cf7f297f334c7e53428320a"
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IStreamFlare.cs3",
@@ -354,15 +340,45 @@
     "version": 2,
     "name": "IStreamFlare",
     "internalName": "IStreamFlare",
-    "authors": ["Phisher98"],
+    "authors": [
+      "Phisher98"
+    ],
     "description": "Movies/Series/Anime",
     "fileSize": 48828,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
-    "tvTypes": ["AsianDrama", "TvSeries", "Anime", "Movie", "Cartoon", "AnimeMovie"],
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries",
+      "Anime",
+      "Movie",
+      "Cartoon",
+      "AnimeMovie"
+    ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/streamflare.png",
     "apiVersion": 1,
     "fileHash": "sha256-b62e1bb5c76fbe3db8dde7bb232d8ef66e8e0eecab4d8891d86ec8b4ff560b19"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/JKAnimeProvider.cs3",
+    "status": 1,
+    "version": 9,
+    "name": "JKAnimeProvider",
+    "internalName": "JKAnimeProvider",
+    "authors": [
+      "Stormunblessed"
+    ],
+    "fileSize": 35344,
+    "repositoryUrl": "https://github.com/redblacker8/storm-ext",
+    "language": "mx",
+    "tvTypes": [
+      "Anime",
+      "OVA"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=jkanime.net&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-d6afc23287631e03d31928c9e70c8a8d7ee43eae6610a7b5ec8836770cc15e68",
+    "description": "JKAnime - Watch anime online in high quality for free."
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KisskhProvider.cs3",
@@ -370,15 +386,75 @@
     "version": 19,
     "name": "KisskhProvider",
     "internalName": "KisskhProvider",
-    "authors": ["Phisher98", "Hexated", "Peerless"],
-    "description": "Korean/Asian dramas and shows with multi-language subtitles.",
+    "authors": [
+      "Phisher98,Hexated,Peerless"
+    ],
     "fileSize": 39516,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
-    "tvTypes": ["AsianDrama", "TvSeries", "Anime", "Movie"],
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries",
+      "Anime",
+      "Movie"
+    ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.co&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-11928a21db21e8d87029bd2428cd2b5c90ec759e9fb7df4af0cf1f43cb79c7c3"
+    "fileHash": "sha256-11928a21db21e8d87029bd2428cd2b5c90ec759e9fb7df4af0cf1f43cb79c7c3",
+    "jarFileSize": 156754,
+    "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KisskhProvider.jar",
+    "jarHash": "sha256-3e8fed4817a89251fb49d18ad5add32d452aaaafe494b30f3a2f1d508a2454c0",
+    "description": "Korean/Asian dramas and shows with multi-language subtitles."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KraptorPlus.cs3",
+    "status": 1,
+    "version": 82,
+    "name": "KraptorPlus",
+    "internalName": "KraptorPlus",
+    "authors": [
+      "kraptor",
+      "Phisher98",
+      "ByAyzen",
+      "Megix"
+    ],
+    "description": "Bir çok sitenin birleştiği toplama eklenti.",
+    "fileSize": 590995,
+    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "Anime",
+      "Cartoon",
+      "AsianDrama",
+      "AnimeMovie"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-eea42de583b60237c84b7a0b08e0f50a39e066eedc7d1c1ada29f1bcf54956bf"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Movix.cs3",
+    "status": 1,
+    "version": 26,
+    "name": "Movix",
+    "internalName": "Movix",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "Explorez les films, séries, collections, alertes et recommandations Movix.",
+    "fileSize": 120275,
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+    "language": "fr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://movix.rodeo/&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-dbbff8f1046bb919412162e53cf6eea0ade1dea185af6722459381f93850f925"
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/OneTouchTV.cs3",
@@ -386,14 +462,114 @@
     "version": 2,
     "name": "OneTouchTV",
     "internalName": "OneTouchTV",
-    "authors": ["Phisher98"],
+    "authors": [
+      "Phisher98"
+    ],
     "description": "Asian Dramas",
     "fileSize": 43162,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
-    "tvTypes": ["AsianDrama", "TvSeries"],
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries"
+    ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=onetouchtv.xyz/&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-9fc6fc7125ca170c5aa38c7eba12090a5436c86a4826691db5405d717b7b02d0"
+    "fileHash": "sha256-9fc6fc7125ca170c5aa38c7eba12090a5436c86a4826691db5405d717b7b02d0",
+    "jarFileSize": 204201,
+    "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/OneTouchTV.jar",
+    "jarHash": "sha256-b771abf4df4daa3091e4d6ccfc79200f3ada886cbe37dca8e19a092143827f5a"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/Pelisplus4KProvider.cs3",
+    "status": 1,
+    "version": 12,
+    "name": "Pelisplus4KProvider",
+    "internalName": "Pelisplus4KProvider",
+    "authors": [
+      "Stormunblessed"
+    ],
+    "fileSize": 43411,
+    "repositoryUrl": "https://github.com/redblacker8/storm-ext",
+    "language": "mx",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "AsianDrama",
+      "Anime"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplus.to&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-d75ebe1c744f0b63207142e69e85301b19e0cd1f0f8a66351d61e41f4a8459b5",
+    "description": "Pelisplus4K - Watch movies, series, anime and Asian dramas in 4K quality."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SetFilmIzle.cs3",
+    "status": 1,
+    "version": 41,
+    "name": "SetFilmIzle",
+    "internalName": "SetFilmIzle",
+    "authors": [
+      "kraptor",
+      "kerimmkirac",
+      "ByAyzen"
+    ],
+    "description": "Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
+    "fileSize": 72393,
+    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.setfilmizle.uk/&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-e0eebc6cc0c519ebacd1320e8a54f8127df8e802e7380052c1b43bc5d58d7396"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SineWix.cs3",
+    "status": 1,
+    "version": 33,
+    "name": "SineWix",
+    "internalName": "SineWix",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "description": "SineWix - Ücretsiz Film, Dizi ve Anime İzleme Uygulaması 5000+ HD İçerik, Türkçe Altyazılı, Otaku Dostu Anime Arşivi, Premium Kalite Yabancı Yapımlar",
+    "fileSize": 77299,
+    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama",
+      "Cartoon"
+    ],
+    "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480",
+    "apiVersion": 1,
+    "fileHash": "sha256-8155d0c87480fd1c28da228acea89a6c79c13a546a8df49cf5063a54f7922772"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Wcoflix.cs3",
+    "status": 1,
+    "version": 9,
+    "name": "Wcoflix",
+    "internalName": "Wcoflix",
+    "authors": [
+      "ByAyzen",
+      "kraptor"
+    ],
+    "description": "We have wide range of cartoons and anime that you can watch in HD and High quality for free.",
+    "fileSize": 22429,
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+    "language": "en",
+    "tvTypes": [
+      "Anime",
+      "Cartoon"
+    ],
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.wcoflix.tv/&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-f9979c012f7be98b29e1c5bc259619d6a8e69fb9dbf88176de19086807934e53"
   }
 ]
