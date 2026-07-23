@@ -2,14 +2,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AllMovieLandProvider.cs3",
     "status": 1,
-    "version": 21,
+    "version": 22,
     "name": "AllMovieLandProvider",
     "internalName": "AllMovieLandProvider",
     "authors": [
       "Phisher98"
     ],
     "description": "Indian MultiLanguage Provider (Mostly Hindi)",
-    "fileSize": 36787,
+    "fileSize": 36817,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -19,22 +19,22 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/AllMovieLandProvider/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-8e9e380ed609587abbdadf4902d800ea0f5e77744da48c4b0f2ed2b1932cdd95",
-    "jarFileSize": 155786,
+    "fileHash": "sha256-e21dbe950eefb6bafbcb4c96d3e6854a0521d2682f22e8fab92a960f58df70ca",
+    "jarFileSize": 155934,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AllMovieLandProvider.jar",
-    "jarHash": "sha256-0fb475995dd81c60307995c28735877789ecd5395fc1e3c21f718d241a29e480"
+    "jarHash": "sha256-0247bd84b721b619d3f62fb7db0a51c107fe74ff2af3bd67055251cf3e88957d"
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AniDb.cs3",
     "status": 1,
-    "version": 11,
+    "version": 12,
     "name": "AniDb",
     "internalName": "AniDb",
     "authors": [
       "Phisher98"
     ],
     "description": "Animes",
-    "fileSize": 56557,
+    "fileSize": 56584,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -44,7 +44,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/anidb.png",
     "apiVersion": 1,
-    "fileHash": "sha256-edeb8b199f2e7aaa723696499a87d3c1d6e03d7456e438f8c293d1925ded9015"
+    "fileHash": "sha256-fb2bf18609589085f692b6a37f6301416b89350ea6d26588804e0ac110776f2c"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/AnimeWorld.cs3",
@@ -167,7 +167,7 @@
       "Phisher98"
     ],
     "description": "Bangla/Hindi Movies/Series",
-    "fileSize": 68268,
+    "fileSize": 68258,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "bn",
     "tvTypes": [
@@ -177,10 +177,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/cinefreak.png",
     "apiVersion": 1,
-    "fileHash": "sha256-8abb7001262d6f020e462491dff68f516f3fd0bce1b8c55a4e6863f05b7ae8a6",
-    "jarFileSize": 312910,
+    "fileHash": "sha256-e9df0eef9e631b8daa9ce79ccdd606b2ee235d454a88a450075c4a8fc51feb1e",
+    "jarFileSize": 312912,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinefreak.jar",
-    "jarHash": "sha256-1a8d0ee06c06ded0d37f8c1b42a139c19110eb8b5bba593aac5fa936007334ef"
+    "jarHash": "sha256-5c42cc8620d838ec2142039fc4c34bd298b2486aa9f687f370c2f87b055ba9ec"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=divicast.study&sz=64",
