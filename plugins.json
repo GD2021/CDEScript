@@ -409,7 +409,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KraptorPlus.cs3",
     "status": 1,
-    "version": 82,
+    "version": 83,
     "name": "KraptorPlus",
     "internalName": "KraptorPlus",
     "authors": [
@@ -419,7 +419,7 @@
       "Megix"
     ],
     "description": "Bir çok sitenin birleştiği toplama eklenti.",
-    "fileSize": 590995,
+    "fileSize": 594839,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -432,7 +432,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png",
     "apiVersion": 1,
-    "fileHash": "sha256-eea42de583b60237c84b7a0b08e0f50a39e066eedc7d1c1ada29f1bcf54956bf"
+    "fileHash": "sha256-aeea815685bb79a572ec9968bba2c9c6a39d38e21dcace650d985300bf9e3e9a"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Movix.cs3",
