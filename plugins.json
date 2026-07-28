@@ -368,7 +368,7 @@
     "authors": [
       "Stormunblessed"
     ],
-    "fileSize": 35344,
+    "fileSize": 35339,
     "repositoryUrl": "https://github.com/redblacker8/storm-ext",
     "language": "mx",
     "tvTypes": [
@@ -377,7 +377,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=jkanime.net&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-d6afc23287631e03d31928c9e70c8a8d7ee43eae6610a7b5ec8836770cc15e68",
+    "fileHash": "sha256-10a6e0e4af5f97274e51fa10afd92f2a3b06f73a562781b4c92f422372362d74",
     "description": "JKAnime - Watch anime online in high quality for free."
   },
   {
@@ -489,7 +489,7 @@
     "authors": [
       "Stormunblessed"
     ],
-    "fileSize": 43411,
+    "fileSize": 43416,
     "repositoryUrl": "https://github.com/redblacker8/storm-ext",
     "language": "mx",
     "tvTypes": [
@@ -500,7 +500,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplus.to&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-d75ebe1c744f0b63207142e69e85301b19e0cd1f0f8a66351d61e41f4a8459b5",
+    "fileHash": "sha256-ec0009f043d0f2b1aad8a2fed4c8d8c7c5889082aeefbc58edf1527f8e908bb6",
     "description": "Pelisplus4K - Watch movies, series, anime and Asian dramas in 4K quality."
   },
   {
