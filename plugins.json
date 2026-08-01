@@ -34,7 +34,7 @@
       "Phisher98"
     ],
     "description": "Animes",
-    "fileSize": 56599,
+    "fileSize": 56456,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -44,7 +44,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/anidb.png",
     "apiVersion": 1,
-    "fileHash": "sha256-b0e6729e57b291945c7815707b32c651f7d7cac2c9a16240ba97688d31a40b54"
+    "fileHash": "sha256-6b5139c88ff987193181116c80f778d23f338a26c2f0cf5e21d969de9e3f7c03"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/AnimeWorld.cs3",
