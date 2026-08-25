@@ -160,14 +160,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinefreak.cs3",
     "status": 1,
-    "version": 10,
+    "version": 11,
     "name": "Cinefreak",
     "internalName": "Cinefreak",
     "authors": [
       "Phisher98"
     ],
     "description": "Bangla/Hindi Movies/Series",
-    "fileSize": 68462,
+    "fileSize": 68488,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "bn",
     "tvTypes": [
@@ -177,10 +177,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/cinefreak.png",
     "apiVersion": 1,
-    "fileHash": "sha256-1b552e2551d7fcc4ae270f3d14573ffb441856ee07f2cf9f9f387f6ae0b26f2c",
-    "jarFileSize": 313811,
+    "fileHash": "sha256-2cf6022d6d5fce3e6c8495c4f96ebbf3cfb18014ce9135f50750cd7a2e74ace0",
+    "jarFileSize": 313825,
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinefreak.jar",
-    "jarHash": "sha256-04b418164b509ed5519857ee62d9e461f36e5a2acede5ace792e2fc7cddbef1b"
+    "jarHash": "sha256-13c8a3e98657fcf5f5728e6f9ba2b802bcb369fbc041306ae074a15e97d751db"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=divicast.study&sz=64",
