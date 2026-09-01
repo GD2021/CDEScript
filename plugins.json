@@ -69,14 +69,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animexin.cs3",
     "status": 1,
-    "version": 11,
+    "version": 13,
     "name": "Animexin",
     "internalName": "Animexin",
     "authors": [
       "Phisher98"
     ],
     "description": "Anime and Movies",
-    "fileSize": 14993,
+    "fileSize": 42827,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -86,10 +86,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=animexin.dev&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-89ce4d0cd6bb2e31e73b54bcb879fca0746418c50f708e47b6f1de0dc60ffe63",
-    "jarFileSize": 60540,
-    "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animexin.jar",
-    "jarHash": "sha256-fbfb17c34938bc002c1cf3aabefca78ca65ac1a095288ae6a93f37d5b6db8b99"
+    "fileHash": "sha256-368b952b05b60756fd1176523027398d8caa050921c58a5e4b5dcd59b24833b1"
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Anineko.cs3",
