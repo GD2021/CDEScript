@@ -88,14 +88,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Anineko.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "Anineko",
     "internalName": "Anineko",
     "authors": [
       "Phisher98"
     ],
     "description": "Anime from Anineko",
-    "fileSize": 67325,
+    "fileSize": 80109,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -105,7 +105,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Anineko.png",
     "apiVersion": 1,
-    "fileHash": "sha256-eb2b3c088f03d7e7776e5be4cac3791d669a79f7f5325a68744e30f6008a46d4"
+    "fileHash": "sha256-ba510b58af5138362aa42a7701a818601f062f4fcb5e6a4123b4aa9fb51c650e"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaAnimeleri.cs3",
