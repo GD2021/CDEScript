@@ -136,7 +136,7 @@
     "authors": [
       "Stormunblessed"
     ],
-    "fileSize": 17112,
+    "fileSize": 17111,
     "repositoryUrl": "https://github.com/redblacker8/storm-ext",
     "language": "mx",
     "tvTypes": [
@@ -145,7 +145,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=cinecalidad.lol&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-84871bf2492b13fd287128542ca0097651ab166d220320a684857a1a1c3a8cb1",
+    "fileHash": "sha256-6af59ea850390368536ad208e2fdc27139698add920db509a100bfed67b7ab9f",
     "description": "Cinecalidad - Watch movies and series in HD quality."
   },
   {
@@ -263,7 +263,7 @@
     "authors": [
       "Stormunblessed"
     ],
-    "fileSize": 40365,
+    "fileSize": 40433,
     "repositoryUrl": "https://github.com/redblacker8/storm-ext",
     "language": "mx",
     "tvTypes": [
@@ -271,7 +271,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=doramasflix.co&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-506cb4d2018e1c86fc533e26c8a5437c08e0276801b6b31f6635a08b31270792",
+    "fileHash": "sha256-32fa90051611770ab71e9e84ae51fb99df2123cefcf0c791ac9505207a87a80b",
     "description": "Doramasflix - Watch Asian dramas online in high quality."
   },
   {
@@ -350,7 +350,7 @@
     "authors": [
       "Stormunblessed"
     ],
-    "fileSize": 35339,
+    "fileSize": 35359,
     "repositoryUrl": "https://github.com/redblacker8/storm-ext",
     "language": "mx",
     "tvTypes": [
@@ -359,7 +359,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=jkanime.net&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-10a6e0e4af5f97274e51fa10afd92f2a3b06f73a562781b4c92f422372362d74",
+    "fileHash": "sha256-bb5467379bf01cb23a81e26d430afe1b36ea2ebf7dc56160aa78de574e55f977",
     "description": "JKAnime - Watch anime online in high quality for free."
   },
   {
@@ -465,7 +465,7 @@
     "authors": [
       "Stormunblessed"
     ],
-    "fileSize": 43416,
+    "fileSize": 43473,
     "repositoryUrl": "https://github.com/redblacker8/storm-ext",
     "language": "mx",
     "tvTypes": [
@@ -476,7 +476,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplus.to&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-ec0009f043d0f2b1aad8a2fed4c8d8c7c5889082aeefbc58edf1527f8e908bb6",
+    "fileHash": "sha256-8e8e5ef5d7e4eb5cf0f16e071d49d0f2d62a903ef99151e709b3fb26e6b70dc8",
     "description": "Pelisplus4K - Watch movies, series, anime and Asian dramas in 4K quality."
   },
   {
