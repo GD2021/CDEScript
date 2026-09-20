@@ -459,13 +459,13 @@
   {
     "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/Pelisplus4KProvider.cs3",
     "status": 1,
-    "version": 12,
+    "version": 13,
     "name": "Pelisplus4KProvider",
     "internalName": "Pelisplus4KProvider",
     "authors": [
       "Stormunblessed"
     ],
-    "fileSize": 43473,
+    "fileSize": 43482,
     "repositoryUrl": "https://github.com/redblacker8/storm-ext",
     "language": "mx",
     "tvTypes": [
@@ -476,7 +476,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplus.to&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-8e8e5ef5d7e4eb5cf0f16e071d49d0f2d62a903ef99151e709b3fb26e6b70dc8",
+    "fileHash": "sha256-265d435328d26d83fef3c374ea1e4c08b216586a170f2356084a3909c149852e",
     "description": "Pelisplus4K - Watch movies, series, anime and Asian dramas in 4K quality."
   },
   {
