@@ -22,28 +22,6 @@
     "fileHash": "sha256-71188bfe509c9ab32f643801aa46c261f69b2790a7537ed85be8e24f2de4dc8f"
   },
   {
-    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AniDb.cs3",
-    "status": 1,
-    "version": 16,
-    "name": "AniDb",
-    "internalName": "AniDb",
-    "authors": [
-      "Phisher98"
-    ],
-    "description": "Animes",
-    "fileSize": 100920,
-    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "language": "en",
-    "tvTypes": [
-      "Anime",
-      "AnimeMovie",
-      "OVA"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/anidb.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-8cc5d15adbbd9754ed1142103a8aa5df0b95665073fa1ae6437a297875b53106"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/AnimeWorld.cs3",
     "status": 1,
     "version": 5,
