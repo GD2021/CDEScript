@@ -485,7 +485,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Wcoflix.cs3",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "Wcoflix",
     "internalName": "Wcoflix",
     "authors": [
@@ -493,7 +493,7 @@
       "kraptor"
     ],
     "description": "We have wide range of cartoons and anime that you can watch in HD and High quality for free.",
-    "fileSize": 22311,
+    "fileSize": 23834,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
     "language": "en",
     "tvTypes": [
@@ -502,6 +502,6 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.wcoflix.tv/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-3a44e6944851c296e597ef5b4a41a0c9e9a66d8be37348dc152af371df469637"
+    "fileHash": "sha256-8f2556de6d18188f43070de47bd4fd5177282e9f58642530083d66d1ca06e4a4"
   }
 ]
