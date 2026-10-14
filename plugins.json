@@ -86,13 +86,13 @@
   {
     "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/CinecalidadProvider.cs3",
     "status": 1,
-    "version": 7,
+    "version": 8,
     "name": "CinecalidadProvider",
     "internalName": "CinecalidadProvider",
     "authors": [
       "Stormunblessed"
     ],
-    "fileSize": 17111,
+    "fileSize": 17259,
     "repositoryUrl": "https://github.com/redblacker8/storm-ext",
     "language": "mx",
     "tvTypes": [
@@ -101,7 +101,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=cinecalidad.lol&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-6af59ea850390368536ad208e2fdc27139698add920db509a100bfed67b7ab9f",
+    "fileHash": "sha256-a1cd918cd7387b89eb4657617e505ffedc61f7059303caae04cd87c50632f286",
     "description": "Cinecalidad - Watch movies and series in HD quality."
   },
   {
